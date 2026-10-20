@@ -1,7 +1,7 @@
 # Data-Visualisation-Website
 This repo is for Group 7's Data Visualisation Website source code
 
-Beyond the Road Toll
+Beyond Road Deaths
 
 This COS30045 project examines hospitalised injuries from road crashes in Australia between 2011 and 2021.
 
